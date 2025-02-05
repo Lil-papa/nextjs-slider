@@ -1,0 +1,1 @@
+# Slider made with Next.js, Tailwind CSS, TypeScript
